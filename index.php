@@ -1,3 +1,3 @@
 <?
-  include_once("home.html");
+  include 'index.html';
 ?>
